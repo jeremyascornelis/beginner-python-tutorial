@@ -1,0 +1,15 @@
+Types of Errors
+
+Normally we have these 8 errors:
+
+1. Syntax error
+2. Indentation error
+3. Type error
+4. Name error
+5. zero division error
+6. index error
+7. runtime error
+8. attribute error
+
+More information, you can check this website:
+https://www.tutorialsteacher.com/python/error-types-in-python
