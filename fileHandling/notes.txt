@@ -1,0 +1,19 @@
+r -> reading
+r+ -> reading and writing
+
+w -> writing
+w+ -> writing and reading
+
+a -> appending
+a+ -> reading and appending
+
+There is one method: "x"
+
+file = open("tessss.txt" , "x")
+
+if the file was exist, it will show an error message, that file is exist.
+But if this is the new file name, it will create new file.
+
+============================================================================
+For more info, you can check this:
+tutorialspoint.com/python3/python_files_io.htm

@@ -1,0 +1,7 @@
+Hello, this is the test file
+red
+blue
+green
+yellow
+black
+white
